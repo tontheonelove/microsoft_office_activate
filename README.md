@@ -3,7 +3,7 @@
 Open cmd program with administrator rights.
 First, you need to open cmd in the admin mode,
 
-# Command Below
+# 2021 Command Below
 
 cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
 
